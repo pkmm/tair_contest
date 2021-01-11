@@ -13,7 +13,7 @@ c++写的不多，代码实现比较简陋、幼稚。数据结构主要是使�
 
 学习过程中找到的一个不错的关于RCU的一个视频（在youtube上可能需要科学上网），[RCU介绍](https://www.youtube.com/watch?reload=9&v=rxQ5K9lo034)
 
-
+![纪念短袖](纪念T恤.jpg)
 
 下面是赛题的介绍
 
